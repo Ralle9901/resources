@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+.filauno {
+	font-family: 'Oswald', sans-serif;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    bottom: 0vw;
+    right: 45vw;
+    color: #5697ff;
+    font-size: 0.5vw;
+}
